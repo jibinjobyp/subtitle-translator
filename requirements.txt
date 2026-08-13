@@ -1,5 +1,5 @@
-streamlit==1.28.0
+streamlit==1.61.1
 pysrt==1.1.2
-transformers==4.36.0
-torch==2.0.0
-sentencepiece==0.1.99
+transformers==5.15.0
+torch==2.12.0
+sentencepiece==0.2.2
